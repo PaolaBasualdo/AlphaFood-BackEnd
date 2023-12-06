@@ -37,6 +37,12 @@ a.button {
     text-decoration: none;
     display: inline-block;
     text-align: center;
+
+}
+
+a.button {
+    float: right;
+    margin-left: 10px;  
 }
 
 input[type="submit"]:hover,
