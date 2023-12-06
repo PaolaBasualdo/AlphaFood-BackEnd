@@ -1,4 +1,5 @@
 
+
 form {
     background-color: #fff;
     padding: 20px;
@@ -27,7 +28,7 @@ input {
 
 input[type="submit"],
 a.button {
-    background-color: #36A0FF ;
+    background-color: #4caf50;
     color: #fff;
     padding: 10px 15px;
     border: none;
@@ -38,13 +39,7 @@ a.button {
     text-align: center;
 }
 
-a.button {
-    text-align: left; 
-}
-
-
 input[type="submit"]:hover,
 a.button:hover {
-    background-color: #fff;
-    color: #36A0FF  
+    background-color: #45a049;
 }
