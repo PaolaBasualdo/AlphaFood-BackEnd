@@ -16,15 +16,13 @@ a.button {
     text-decoration: none;
     display: inline-block;
     text-align: center;
-    transition: background-color 0.3s;
 }
 
 a.button {
-    text-align: left;
-    padding: 10px 15px;
+    text-align: left; 
 }
 
 input[type="submit"]:hover,
 a.button:hover {
-    background-color: #58ff36d5; 
+    background-color: #fff;
 }
