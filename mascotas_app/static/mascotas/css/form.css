@@ -28,7 +28,7 @@ input {
 
 input[type="submit"],
 a.button {
-    background-color: #4caf50;
+    background-color: #36A0FF;
     color: #fff;
     padding: 10px 15px;
     border: none;
@@ -41,5 +41,5 @@ a.button {
 
 input[type="submit"]:hover,
 a.button:hover {
-    background-color: #45a049;
+    background-color: #36A0FF;
 }
