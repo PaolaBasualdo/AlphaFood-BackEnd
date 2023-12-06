@@ -1,3 +1,23 @@
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+div {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #333;
+}
+
 input {
     width: 100%;
     padding: 8px;
@@ -7,7 +27,7 @@ input {
 
 input[type="submit"],
 a.button {
-    background-color: #36A0FF;
+    background-color: #36A0FF ;
     color: #fff;
     padding: 10px 15px;
     border: none;
@@ -22,7 +42,9 @@ a.button {
     text-align: left; 
 }
 
+
 input[type="submit"]:hover,
 a.button:hover {
     background-color: #fff;
+    color: #36A0FF  
 }
